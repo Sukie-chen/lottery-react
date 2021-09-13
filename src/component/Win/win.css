@@ -1,0 +1,10 @@
+.winBox{
+    position: absolute;
+    top: 200px;
+    left: 30%;
+    width: 200px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    background-color: #ffffff;
+}
